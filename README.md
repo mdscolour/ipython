@@ -1,1 +1,2 @@
-just a trial
+aaa
+http://nbviewer.ipython.org/github/mdscolour/ipython/blob/master/try.ipynb
